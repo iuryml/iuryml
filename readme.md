@@ -3,7 +3,7 @@
 
 - 🔭 Atuamente estou desenvolvendo projetos com análise e visualização de dados 
 
-- 🌱 Atualmente estou aprendendo **Power BI, Google Data Studio e Excel**
+- 🌱 Estou aprendendo **Power BI, Google Data Studio e Excel**
 
 - 💬 Me fale sobre **Power BI, Python, Bancos relacionais SQL e Excel**
 
