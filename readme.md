@@ -3,9 +3,7 @@
 
 - 🔭 Atuamente estou desenvolvendo projetos com análise e visualização de dados 
 
-- 🌱 Estou aprendendo **Power BI, Google Data Studio e Excel**
-
-- 💬 Me fale sobre **Power BI, Python, Bancos relacionais SQL e Excel**
+- 💬 Me fale sobre **Power BI, Python, Bancos relacionais SQL, Pentaho, Excel ou qualquer ferramentas similares**
 
 - 📫 Me procure pelo e-mail **iurylima98@outlook.com**
 
