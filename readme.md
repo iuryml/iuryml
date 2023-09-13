@@ -13,6 +13,7 @@
   <img align="center" height="40" width="100" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" />
   <img align="center" height="90" width="120" src="https://www.ledgersquare.com/wp-content/uploads/2021/02/pentaho-transparent-logo.png" />
   <img align="center" height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/119_Excel_logo_logos-512.png" />
+  <img align="center" height="45" width="50" src="https://github.com/iuryml/iuryml/assets/55949523/430a6c46-58e7-4c24-be7b-72c3493dd597" />
 </div>
 
 ## Principais Projetos ##
