@@ -7,6 +7,7 @@
 
 - 📫 Me procure pelo e-mail **iurylima98@outlook.com**
 <div style="display: inline_block"><br>
+  <h3>Ferramentas e Linguagens</h3>
   <img align="center" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
