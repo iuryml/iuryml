@@ -18,8 +18,15 @@
 
 ## Principais Projetos ##
 
+<a href="https://github.com/iuryml/analise-extratos">Controle de Gastos - Fatura de Cartão de Crédito</a>
+* Demonstrando as principais categorias gastadoras
+* Gasto Médio e Total
+* Tipo de Cartão com maior movimentação financeira durante os meses do ano de 2023
+
 <a href="https://github.com/iuryml/Analise-BlocodeCodigo">Campanhas de Marketing - Bloco de Código</a>
 * Principais métricas e indicadores da Campanha
+* Média de tempo de leitura por artigo
+* Categorias com mais visualizações
 
 <a href="https://github.com/iuryml/Analise-Leads-Compradores">Leads e Compradores - Data Mundo</a>
 * Principais perfis de Leads e Compradores do produto
